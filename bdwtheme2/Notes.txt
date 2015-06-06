@@ -1,0 +1,43 @@
+bdwtheme2
+
+Version: 1.2
+
+(c) Barry Walker 2006 bdwwebs.com
+
+Your Rights:
+
+You can edit or use this theme on commercial or no-commercial websites as long as you keep the 
+copyright & advertising intact.
+
+Removing Adverts:
+
+If you wish to legally remove adverts from our themes then please send us a 
+donation by going to our website and clicking "Donations" in the main menu.
+
+Fixed:
+
+14th/Oct/2006
+No spaces in between left center blocks
+11th/Oct/2006
+Unusual spaces apearing in some left and right blocks
+24th/Sept/2006
+No spaces in news tables
+
+Changed:
+
+11th/Oct/2006: Made changes to make it W3C compliant.
+
+Features:
+
+    * Validated XHTML at W3C.org
+    * All important text resizable in ALL browsers.
+    * Resized Text doesnt break the images
+    * Menu in Header. Also editable to suit your own site within theme.html.
+    * User Menu in header also editable within theme.html.
+    * Does not squash logo.
+    * Search box in header. giving more space in left block
+    * Bottom Blocks compatible.
+    * CSS Vilidates at www.w3.org
+    *
+    * If any of you find any problems with this theme then please report it at bdwwebs.com.
+
